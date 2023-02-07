@@ -1,2 +1,2 @@
-# ProjektInzynieriaoprogramowania
+# Projekt
 Gra A'la Warblade
